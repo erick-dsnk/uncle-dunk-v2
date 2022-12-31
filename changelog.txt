@@ -1,0 +1,7 @@
+**Major news on the Uncle Dunk front!**
+1) Uncle Dunk now has support for Slash Command, Discord's newest feature!
+The majority of commands have been migrated to using Slash (with a few exceptions that will be implemented later),
+Uncle Dunk has introduced a new level of ease and simplicity, and the owner is working hard every day to improve the bot for you!
+
+2) The owner is also working on a upgraded version of Uncle Dunk, built from scratch that will have even better integration with Discord, new games and activities and even a web dashboard to configure the bot!
+The date of release for this project isn't yet public and will be announced at a later date, but you can check our changelog and our top.gg page for updates!

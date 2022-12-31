@@ -1,0 +1,9 @@
+cogs/__pycache__
+helpers/__pycache__
+exts/__pycache__
+__pycache__
+tests
+christmas-music
+.env
+tokens.py
+
